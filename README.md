@@ -11,8 +11,8 @@ Amazon Reviews data (http://jmcauley.ucsd.edu/data/amazon/) The repository has s
 To make a recommendation system that recommends at least five(5) new products based on the user's habits.  
     
 # Steps and tasks    
-1. Read and explore the given dataset. ( Rename column/add headers, plot histograms, find data characteristics)  
-2. Take a subset of the dataset to make it less sparse/ denser. ( For example, keep the users only who has given 50 or more number of ratings )  
+1. Read and explore the given dataset.  
+2. Take a subset of the dataset to make it less sparse/ denser.    
 3. Build Popularity Recommender model.  
 4. Split the data randomly into a train and test dataset.  
 5. Build Collaborative Filtering model.  
